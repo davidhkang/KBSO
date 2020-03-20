@@ -168,7 +168,7 @@ a{
 	line-height: 300px;
 	background-attachment: fixed;
 	background-size: cover;
-    background-position: center;
+    background-position: right;
     background-repeat: no-repeat;
 }
 #initiatives img{ 
@@ -247,7 +247,7 @@ i{
 	width: 230px;
 }
 .constant{
-	width: 201px;
+	width: 201px !important;
 }
 #christina{
 	width: 190px;
